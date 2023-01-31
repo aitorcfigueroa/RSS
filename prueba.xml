@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+  <channel>
+    <!-- Elementos no variables -->
+    <title>Canal RSS Aitor</title>
+    <link>aitorcfigueroa.github.io/rss</link>
+    <desciption>Ejemplo de RSS</desciption>
+    <language>es-ES</language>
+    <image>
+      <title>Aitor C. Figueroa</title>
+      <url>aitorcfigueroa.github.io/rss/images/logo.svg</url>
+      <link>aitorcfigueroa.github.io/rss</link>
+    </image>
+    <!-- Elementos variables -->
+    <item>
+      <title>Noticia 1</title>
+      <link>http://miservidor.com/noticia1.html</link>
+      <description>Descripción de la noticia 1 </description>
+   </item>
+   <item>
+      <title>Noticia 2</title>
+      <link>http://miservidor.com/noticia2.html</link>
+      <description>Descripción de la noticia 2</description>
+   </item>
+  </channel>
+</rss>
